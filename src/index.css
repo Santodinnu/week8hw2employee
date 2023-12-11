@@ -1,0 +1,14 @@
+h1{
+  color: rgb(17, 84, 105);
+}
+body{
+  background-color: rgb(141, 231, 243);
+  display: flex;
+  justify-content: center;
+}
+input{
+  width: 260px;
+}
+img{
+  border-radius: 50px;
+}
